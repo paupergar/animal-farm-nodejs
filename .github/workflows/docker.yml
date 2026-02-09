@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            paupergar/animal-farm-nodejs:latest
-            ghcr.io/paupergar/animal-farm-nodejs:latest
+            paulapg/animal-farm-nodejs:latest
+            ghcr.io/paulapg/animal-farm-nodejs:latest
